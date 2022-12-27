@@ -23,11 +23,7 @@ Created a Responsive real-like Tesla Clone created with ReactJs,React-router, lo
 
 node.js is required to get `npm`.
 
-If you would like to download the code and try it for yourself:
-
-Clone the repo: `git@github.com:chirag-23/Tesla-clone-reactjs.git`
-
-`cd Tesla-clone-reactjs`
+`cd Reactjs-Tesla-Clone`
 
 Install packages: `npm install`
 
