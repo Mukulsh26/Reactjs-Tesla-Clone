@@ -1,11 +1,10 @@
 # Reactjs-Tesla-Clone
-# Tesla-Clone
-A Responsive real-like Tesla Clone created with ReactJs,React-router, Firebase for authentication, Redux for state management, AOS, Styled-components and Material-UI.
+Created a Responsive real-like Tesla Clone created with ReactJs,React-router, login SignUp authentication, Redux for state management, Styled-components and Material-UI.
 
 ## Live Demo 
 <a href='https://tesla-clone-1000.web.app/' target="_blank">Tesla-Clone</a>
 
-## Features
+# Features
 --> Active navbar similar to original
 
 --> Smooth scrolling like original
@@ -20,7 +19,7 @@ A Responsive real-like Tesla Clone created with ReactJs,React-router, Firebase f
 
 --> Your personal dashboard on account tab
 
-## Installation
+# Installation
 
 node.js is required to get `npm`.
 
@@ -36,5 +35,5 @@ Build project:`npm start`
 
 Open your browser at: `http://localhost:3000`
 
-## Contacts
+# Contacts
 <a href="https://www.linkedin.com/in/mukul-sharma-mm7m262002" target="_blank"></i>LinkedIn</a>
