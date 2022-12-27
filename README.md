@@ -2,7 +2,7 @@
 Created a Responsive real-like Tesla Clone created with ReactJs,React-router, login SignUp authentication, Redux for state management, Styled-components and Material-UI.
 
 ## Live Demo 
-<a href='https://tesla-clone-1000.web.app/' target="_blank">Tesla-Clone</a>
+<a href='https://reactjs-tesla-clone-omega.vercel.app/' target="_blank">Tesla-Clone</a>
 
 # Features
 --> Active navbar similar to original
